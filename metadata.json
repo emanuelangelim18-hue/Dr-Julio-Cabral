@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Júlio Cabral - Cardiologia & Check-up em São Paulo",
+  "description": "Consultório de cardiologia clínica e diagnóstica de alta precisão em São Paulo. Avaliação preventiva, ecocardiograma, check-up e acompanhamento com o Dr. Júlio Cabral.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
